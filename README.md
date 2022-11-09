@@ -15,14 +15,15 @@
 
 ---
 
-- 👋 Hi, I’m @michaelmeixner
-- :telescope: I’m working as a Software Engineer and contributing to public and personal development projects.
+# 👋 Hi, I’m @michaelmeixner
 
-- :seedling: Exploring Technical Content Writing.
+### :telescope: I’m working as a Software Engineer and contributing to public and personal development projects.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+### :seedling: Exploring Technical Content Writing.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+### :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+### :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Michael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-meixner)
 
 <!---
 michaelmeixner/michaelmeixner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
