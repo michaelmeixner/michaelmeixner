@@ -15,15 +15,19 @@
 
 ---
 
-# 👋 Hi, I’m @michaelmeixner
+# Welcome! I’m Michael.
 
-### :telescope: I’m working as a Software Engineer and contributing to public and personal development projects.
+### :airplane: I’m working as a Software Engineer and contributing to public and personal development projects.
 
-### :seedling: Exploring Technical Content Writing.
+### :seedling: Learning about Digital Signal Processing.
 
-### :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+### :camera: In my free time, I play guitar, take photos (primarily on 35mm film), and make coffee. :coffee:
 
-### :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Michael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-meixner)
+![](https://raw.githubusercontent.com/michaelmeixner/profile-summary-cards/master/profile-summary-card-output/dracula/0-profile-details.svg)
+![](https://raw.githubusercontent.com/michaelmeixner/profile-summary-cards/master/profile-summary-card-output/dracula/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/michaelmeixner/profile-summary-cards/master/profile-summary-card-output/dracula/2-most-commit-language.svg)
+
+### :mailbox: Reach me via LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Michael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-meixner)
 
 <!---
 michaelmeixner/michaelmeixner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
