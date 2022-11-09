@@ -17,9 +17,9 @@
 
 # Welcome! I’m Michael.
 
-### :airplane: I’m working as a Software Engineer and contributing to public and personal development projects.
+### :airplane: I work as a Software Engineer and enjoy contributing to public and personal development projects.
 
-### :seedling: Learning about Digital Signal Processing.
+### :seedling: Currently, I'm trying to venture into Digital Signal Processing.
 
 ### :camera: In my free time, I play guitar, take photos (primarily on 35mm film), and make coffee. :coffee:
 
