@@ -19,9 +19,9 @@
 
 ### :airplane: I work as a Software Engineer and enjoy contributing to public and personal development projects.
 
-### :seedling: Currently, I'm trying to venture into Digital Signal Processing.
+### :seedling: Currently I'm trying to learn more about Digital Signal Processing.
 
-### :camera: In my free time, I play guitar, take photos (primarily on 35mm film), and make coffee. :coffee:
+### :camera: In my free time, I play guitar, take photos (primarily on 35mm film), and make coffee.
 
 ![](https://raw.githubusercontent.com/michaelmeixner/profile-summary-cards/master/profile-summary-card-output/dracula/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/michaelmeixner/profile-summary-cards/master/profile-summary-card-output/dracula/1-repos-per-language.svg)
