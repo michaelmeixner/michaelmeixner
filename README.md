@@ -9,9 +9,6 @@
     <img src="https://img.shields.io/badge/Instagram-magenta?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
-<div id="counter" align="center">
-   <img src="https://komarev.com/ghpvc/?username=michaelmeixner&style=flat-square&color=blue"/>
-</div>
 
 ---
 
@@ -21,14 +18,22 @@
 
 ### :seedling: Currently I'm trying to learn more about Digital Signal Processing.
 
-### :camera: In my free time, I play guitar, take photos (primarily on 35mm film), and make coffee.
+### :camera: In my free time, I play guitar, take photos (primarily on 35mm film), listen to music, and make coffee.
+
+### :mailbox: Reach me via LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Michael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-meixner)
 
 ![](https://raw.githubusercontent.com/michaelmeixner/profile-summary-cards/master/profile-summary-card-output/dracula/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/michaelmeixner/profile-summary-cards/master/profile-summary-card-output/dracula/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/michaelmeixner/profile-summary-cards/master/profile-summary-card-output/dracula/2-most-commit-language.svg)
 
-### :mailbox: Reach me via LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Michael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-meixner)
+# Thanks for stopping by!
 
+<div id="header" align="center" style="width:100%;height:0;padding-bottom:75%;position:relative;">
+   <img src="https://media.giphy.com/media/gQzRm3Fw5MG7m/giphy.gif" width=100/>
+</div>
+<div id="counter" align="center">
+   <img src="https://komarev.com/ghpvc/?username=michaelmeixner&style=flat-square&color=blue"/>
+</div>
 <!---
 michaelmeixner/michaelmeixner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
