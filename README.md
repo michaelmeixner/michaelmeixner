@@ -16,7 +16,7 @@
 
 ### :airplane: I work as a Software Engineer and enjoy contributing to public and personal development projects.
 
-### :seedling: Currently I'm trying to learn more about Digital Signal Processing.
+### :seedling: Currently I'm trying to learn more about Digital Signal Processing and app development with Flutter.
 
 ### :camera: In my free time, I play guitar, take photos (primarily on 35mm film), listen to music, and make coffee.
 
